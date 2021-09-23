@@ -132,3 +132,6 @@ def main():
 
 main()
 print(f"{Fore.GREEN}\nEnd of the Game! Thank you for playing!")
+
+
+
